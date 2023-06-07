@@ -1,0 +1,179 @@
+body {
+  background: url(https://img.freepik.com/premium-vector/abstract-background-topographic-contour-line-pattern-vector-illustration_136875-4134.jpg?w=1380);
+}
+
+.navbarnavbar-expand-lgbg-body-tertiary,
+.container-fluid,
+.navbar-brand {
+  height: 60px;
+  margin-left: 70px;
+  color: #4aaa;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*NAV END */
+
+/* BOX-IMG0-END!*/
+.portfolio-flex {
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  margin: 20px auto;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-right: 12em;
+
+}
+
+.sections {
+  color: dimgray;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.flex {
+  margin-top: 40px;
+}
+
+.picture p {
+  padding: 15px;
+  color: #fff;
+  background-color: rgb(108, 148, 135);
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  bottom: 50px;
+  margin-left: 10px;
+}
+
+.portfolio {
+  width: 70%;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 40px;
+  border-bottom: 5px solid #ddd;
+  color: #4aaaa5;
+  padding: 20px;
+
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 10px;
+}
+
+.picture {
+  width: 40%;
+}
+
+.picture img {
+  width: 100%;
+}
+
+.portfolio {
+  color: dimgray;
+
+}
+
+
+.images {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  background: #fff;
+  border: 1px solid #ddd;
+  position: relative;
+  width: 24%;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+
+}
+
+h2 {
+  font-size: 25px;
+  color: #4aaaa5;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin: 10px;
+}
+
+
+/* FOOTER START! */
+
+footer {
+  padding: 30px;
+  font-size: 12px;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+  margin-top: 23vh;
+}
+
+
+
+.card {
+  margin-left: 30em;
+  margin-top: 5em;
+  height: 500px;
+
+}
+
+.col-md-4,
+img .card-text {
+  margin-top: 20px;
+  width: 30%;
+
+}
+
+.card-title {
+  font-size: 25px;
+  margin-top: 12px;
+  margin-left: 10px;
+  color: #4aaa;
+  font-weight: bold;
+  border-bottom: 2px solid gray;
+  margin: 15px;
+  padding: 20px;
+  margin-top: 1em;
+}
+
+.card-text,
+.col-md-4,
+img {
+  margin-left: 10px;
+}
+
+
+.css {
+  border: 1px solid gray;
+  background-color: #fff;
+  height: 270px;
+  margin-left: 2em;
+  margin-top: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+.logo {
+  width: 62px;
+  height: 62px;
+  margin-left: 2em;
+  margin-top: 5em;
+  border-bottom: 3px solid gray;
+}

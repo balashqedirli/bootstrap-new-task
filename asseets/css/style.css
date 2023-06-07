@@ -1,0 +1,86 @@
+body {
+    background: url(https://img.freepik.com/premium-vector/abstract-background-topographic-contour-line-pattern-vector-illustration_136875-4134.jpg?w=1380);
+}
+
+.navbarnavbar-expand-lgbg-body-tertiary,
+.container-fluid,
+.navbar-brand {
+    height: 60px;
+    margin-left: 70px;
+    color: #4aaa;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* NAV END */
+
+.card {
+    margin-left: 30em;
+    margin-top: 5em;
+    height: 500px;
+
+}
+
+.col-md-4,
+img .card-text {
+    margin-top: 20px;
+    width: 30%;
+
+}
+
+.card-title {
+    font-size: 25px;
+    margin-top: 12px;
+    margin-left: 10px;
+    color: #4aaa;
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+    margin: 15px;
+    padding: 20px;
+margin-top: 1em;
+}
+
+.card-text,
+.col-md-4,
+img {
+    margin-left: 10px;
+}
+
+
+.css {
+     border: 1px solid gray;
+    background-color: #fff;
+    height: 270px;
+    margin-left: 2em;
+    margin-top: 5.2em; 
+}
+
+.flex {
+    display: flex;
+}
+.logo {
+    width: 62px;
+    height: 62px;
+    margin-left: 2em;
+    margin-top: 5em;
+    border-bottom: 3px solid gray;
+}
+/* BOX-IMG0-END!*/
+
+footer {
+    padding: 30px;
+    font-size: 12px;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 23vh;
+  }
+
+
+
+
+
+
+
